@@ -64,4 +64,4 @@ if st.button("Predict"):
     else:
         st.success("✅ Low Risk of Heart Disease")
         
-st.title("Made with ❤️ by Shubham.")
+st.title("Made with ❤️ by Shubham Gupta.")
